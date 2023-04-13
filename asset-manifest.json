@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alura_challenge/static/css/main.6510f4a0.css",
+    "main.js": "/alura_challenge/static/js/main.d20f928b.js",
+    "static/js/787.cda612ba.chunk.js": "/alura_challenge/static/js/787.cda612ba.chunk.js",
+    "index.html": "/alura_challenge/index.html",
+    "main.6510f4a0.css.map": "/alura_challenge/static/css/main.6510f4a0.css.map",
+    "main.d20f928b.js.map": "/alura_challenge/static/js/main.d20f928b.js.map",
+    "787.cda612ba.chunk.js.map": "/alura_challenge/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6510f4a0.css",
+    "static/js/main.d20f928b.js"
+  ]
+}
