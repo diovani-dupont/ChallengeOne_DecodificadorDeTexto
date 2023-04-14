@@ -43,3 +43,6 @@ O resultado será exibido no campo de texto de saída.
 Caso deseje limpar os campos de texto, clique no botão "Limpar".
 Lembre-se de que o programa funciona apenas com letras minúsculas e não suporta acentos ou caracteres especiais.
 
+![image](https://user-images.githubusercontent.com/109030838/231913175-179e4251-6881-4afc-b2a9-f1b592108a33.png)
+
+
